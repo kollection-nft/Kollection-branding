@@ -47,12 +47,12 @@ Here are a few examples of forbidden uses of our Brand Assets:
 
     -   Other products
 
--   **Don\'t create derivative names that imply official endorsement\**
+-   **Don\'t create derivative names that imply official endorsement**
     For example, don\'t make a social media group called
     \"Kollection Italy\" - this sounds official. \"Kollection Fans of
     Italy\" may be permitted.
 
--   **Don\'t change or adapt our Brand Assets in any way\**
+-   **Don\'t change or adapt our Brand Assets in any way**
     > Use the logos and other assets exactly as provided. Do not
     > change the colors, reassemble, abbreviate, or change these assets
     > in any way.
