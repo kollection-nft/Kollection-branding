@@ -69,9 +69,9 @@ extent permitted by the Terms detailed in this page.
 
 | Name              | Hex Code    |             Swatch             |
 | ------------------|:-----------:|:------------------------------:|
-| Kollection Black  | 151515      |   ![](src/media/image2.png) |
-| Kollection Yellow | FFD600      |   ![](src/media/image3.png) |
-| Kollection White  | FFFFFF      |   ![](src/media/image1.png) |
+| Kollection Black  | 151515      |   ![](Colors/accent-black.png) |
+| Kollection Yellow | FFD600      |   ![](Colors/accent-yellow.png) |
+| Kollection White  | FFFFFF      |   ![](Colors/accent-white.png) |
 
 
 
