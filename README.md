@@ -63,7 +63,7 @@ Use your common sense and creativity. If you want to make something
 relating to the Kollection ecosystem, make it your own. By downloading these files, you confirm that you will only use it to the
 extent permitted by the Terms detailed in this page.
 
-
+## **Logo elements**
 
 ### **Colors**
 
