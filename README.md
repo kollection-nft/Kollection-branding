@@ -70,7 +70,7 @@ extent permitted by the Terms detailed in this page.
 | Name              | Hex Code    |             Swatch             |
 | ------------------|:-----------:|:------------------------------:|
 | Kollection Black  | 151515      |   ![](Colors/accent-black.png) |
-| Kollection Yellow | FFD600      |   ![](Colors/accent-yellow.png) |
+| Kollection Green  | 9EFF00      |   ![](Colors/accent-green.png) |
 | Kollection White  | FFFFFF      |   ![](Colors/accent-white.png) |
 
 
